@@ -1,7 +1,6 @@
 C:\Uchoba\КПиЯП\LAB16\LAB16\LAB16\bin\Debug\LAB16.exe.config
 C:\Uchoba\КПиЯП\LAB16\LAB16\LAB16\bin\Debug\LAB16.exe
 C:\Uchoba\КПиЯП\LAB16\LAB16\LAB16\bin\Debug\LAB16.pdb
-C:\Uchoba\КПиЯП\LAB16\LAB16\LAB16\obj\Debug\LAB16.csprojAssemblyReference.cache
 C:\Uchoba\КПиЯП\LAB16\LAB16\LAB16\obj\Debug\LAB16.csproj.CoreCompileInputs.cache
 C:\Uchoba\КПиЯП\LAB16\LAB16\LAB16\obj\Debug\LAB16.exe
 C:\Uchoba\КПиЯП\LAB16\LAB16\LAB16\obj\Debug\LAB16.pdb
